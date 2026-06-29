@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 1,
+    "review": "camera quality is amazing but battery drains quickly",
+    "aspects": [
+      {
+        "feature": "camera quality",
+        "opinion": "amazing",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "battery",
+        "opinion": "quickly",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 2,
+    "review": "display is vibrant but price is too high",
+    "aspects": [
+      {
+        "feature": "display",
+        "opinion": "vibrant",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "price",
+        "opinion": "too high",
+        "sentiment": "neutral"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    }
+  },
+  {
+    "id": 3,
+    "review": "sound is clear and loud but build quality is poor",
+    "aspects": [
+      {
+        "feature": "sound",
+        "opinion": "clear",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "build quality",
+        "opinion": "poor",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 4,
+    "review": "performance is excellent but heating is terrible",
+    "aspects": [
+      {
+        "feature": "performance",
+        "opinion": "excellent",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "heating",
+        "opinion": "terrible",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 5,
+    "review": "screen is bright and sharp but software is laggy",
+    "aspects": [
+      {
+        "feature": "screen",
+        "opinion": "bright",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "software",
+        "opinion": "laggy",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 6,
+    "review": "battery life is great and charging is fast",
+    "aspects": [
+      {
+        "feature": "battery life",
+        "opinion": "great",
+        "sentiment": "positive"
+      }
+    ],
+    "summary": {
+      "total_aspects": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 7,
+    "review": "customer service is horrible but delivery was quick",
+    "aspects": [
+      {
+        "feature": "customer service",
+        "opinion": "horrible",
+        "sentiment": "negative"
+      },
+      {
+        "feature": "delivery",
+        "opinion": "quick",
+        "sentiment": "neutral"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1
+    }
+  },
+  {
+    "id": 8,
+    "review": "design is beautiful but storage is too expensive",
+    "aspects": [
+      {
+        "feature": "design",
+        "opinion": "beautiful",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "storage",
+        "opinion": "too expensive",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 9,
+    "review": "speaker quality is good but microphone is weak",
+    "aspects": [
+      {
+        "feature": "speaker quality",
+        "opinion": "good",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "microphone",
+        "opinion": "weak",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 10,
+    "review": "camera is fantastic but low light performance is bad",
+    "aspects": [
+      {
+        "feature": "camera",
+        "opinion": "fantastic",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "low light performance",
+        "opinion": "bad",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 11,
+    "review": "camera quality is amazing but battery drains quickly",
+    "aspects": [
+      {
+        "feature": "camera quality",
+        "opinion": "amazing",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "battery",
+        "opinion": "quickly",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 12,
+    "review": "display is vibrant but price is too high",
+    "aspects": [
+      {
+        "feature": "display",
+        "opinion": "vibrant",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "price",
+        "opinion": "too high",
+        "sentiment": "neutral"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 1
+    }
+  },
+  {
+    "id": 13,
+    "review": "sound is clear and loud but build quality is poor",
+    "aspects": [
+      {
+        "feature": "sound",
+        "opinion": "clear",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "build quality",
+        "opinion": "poor",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 14,
+    "review": "performance is excellent but heating is terrible",
+    "aspects": [
+      {
+        "feature": "performance",
+        "opinion": "excellent",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "heating",
+        "opinion": "terrible",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 15,
+    "review": "screen is bright and sharp but software is laggy",
+    "aspects": [
+      {
+        "feature": "screen",
+        "opinion": "bright",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "software",
+        "opinion": "laggy",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 16,
+    "review": "battery life is great and charging is fast",
+    "aspects": [
+      {
+        "feature": "battery life",
+        "opinion": "great",
+        "sentiment": "positive"
+      }
+    ],
+    "summary": {
+      "total_aspects": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 17,
+    "review": "customer service is horrible but delivery was quick",
+    "aspects": [
+      {
+        "feature": "customer service",
+        "opinion": "horrible",
+        "sentiment": "negative"
+      },
+      {
+        "feature": "delivery",
+        "opinion": "quick",
+        "sentiment": "neutral"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1
+    }
+  },
+  {
+    "id": 18,
+    "review": "design is beautiful but storage is too expensive",
+    "aspects": [
+      {
+        "feature": "design",
+        "opinion": "beautiful",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "storage",
+        "opinion": "too expensive",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 19,
+    "review": "speaker quality is good but microphone is weak",
+    "aspects": [
+      {
+        "feature": "speaker quality",
+        "opinion": "good",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "microphone",
+        "opinion": "weak",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 20,
+    "review": "camera is fantastic but low light performance is bad",
+    "aspects": [
+      {
+        "feature": "camera",
+        "opinion": "fantastic",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "low light performance",
+        "opinion": "bad",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 21,
+    "review": "keyboard is comfortable but touchpad is unresponsive",
+    "aspects": [
+      {
+        "feature": "keyboard",
+        "opinion": "comfortable",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "touchpad",
+        "opinion": "unresponsive",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 22,
+    "review": "internet speed is fast but connection drops frequently",
+    "aspects": [
+      {
+        "feature": "internet speed",
+        "opinion": "fast",
+        "sentiment": "neutral"
+      },
+      {
+        "feature": "connection",
+        "opinion": "frequently",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1
+    }
+  },
+  {
+    "id": 23,
+    "review": "picture quality is stunning but speakers are disappointing",
+    "aspects": [
+      {
+        "feature": "picture quality",
+        "opinion": "stunning",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "speakers",
+        "opinion": "disappointing",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 24,
+    "review": "app interface is simple but loading time is slow",
+    "aspects": [
+      {
+        "feature": "app interface",
+        "opinion": "simple",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "loading time",
+        "opinion": "slow",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 25,
+    "review": "processor is powerful but battery backup is weak",
+    "aspects": [
+      {
+        "feature": "processor",
+        "opinion": "powerful",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "battery backup",
+        "opinion": "weak",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 26,
+    "review": "navigation is accurate but voice guidance is annoying",
+    "aspects": [
+      {
+        "feature": "navigation",
+        "opinion": "accurate",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "voice guidance",
+        "opinion": "annoying",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 27,
+    "review": "food quality is excellent but service is slow",
+    "aspects": [
+      {
+        "feature": "food quality",
+        "opinion": "excellent",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "service",
+        "opinion": "slow",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 28,
+    "review": "hotel room was clean but air conditioning was noisy",
+    "aspects": [
+      {
+        "feature": "hotel room",
+        "opinion": "clean",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "air conditioning",
+        "opinion": "noisy",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 29,
+    "review": "website design is attractive but checkout process is confusing",
+    "aspects": [
+      {
+        "feature": "website design",
+        "opinion": "attractive",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "checkout process",
+        "opinion": "confusing",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 30,
+    "review": "printing quality is sharp but ink runs out quickly",
+    "aspects": [
+      {
+        "feature": "printing quality",
+        "opinion": "sharp",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "ink",
+        "opinion": "runs quickly",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 31,
+    "review": "engine performance is impressive but fuel economy is poor",
+    "aspects": [
+      {
+        "feature": "engine performance",
+        "opinion": "impressive",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "fuel economy",
+        "opinion": "poor",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 32,
+    "review": "seat comfort is excellent but legroom is limited",
+    "aspects": [
+      {
+        "feature": "seat comfort",
+        "opinion": "excellent",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "legroom",
+        "opinion": "limited",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 33,
+    "review": "security features are reliable but setup is complicated",
+    "aspects": [
+      {
+        "feature": "security features",
+        "opinion": "reliable",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "setup",
+        "opinion": "complicated",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 34,
+    "review": "video quality is crisp but frame rate is unstable",
+    "aspects": [
+      {
+        "feature": "video quality",
+        "opinion": "crisp",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "frame rate",
+        "opinion": "unstable",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 35,
+    "review": "response time is fast but customer support is unhelpful",
+    "aspects": [
+      {
+        "feature": "response time",
+        "opinion": "fast",
+        "sentiment": "neutral"
+      },
+      {
+        "feature": "customer support",
+        "opinion": "unhelpful",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 1
+    }
+  },
+  {
+    "id": 36,
+    "review": "graphics are beautiful but gameplay is repetitive",
+    "aspects": [
+      {
+        "feature": "graphics",
+        "opinion": "beautiful",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "gameplay",
+        "opinion": "repetitive",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 37,
+    "review": "battery backup is outstanding but charging speed is average",
+    "aspects": [
+      {
+        "feature": "battery backup",
+        "opinion": "outstanding",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "speed",
+        "opinion": "average",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 38,
+    "review": "camera captures great photos but autofocus is slow",
+    "aspects": [
+      {
+        "feature": "camera",
+        "opinion": "captures great",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "autofocus",
+        "opinion": "slow",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 39,
+    "review": "audio quality is rich but volume is low",
+    "aspects": [
+      {
+        "feature": "audio quality",
+        "opinion": "rich",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "volume",
+        "opinion": "low",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 40,
+    "review": "installation process is easy but documentation is incomplete",
+    "aspects": [
+      {
+        "feature": "installation process",
+        "opinion": "easy",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "documentation",
+        "opinion": "incomplete",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 41,
+    "review": "search results are accurate but filtering options are limited",
+    "aspects": [
+      {
+        "feature": "search results",
+        "opinion": "accurate",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "filtering options",
+        "opinion": "limited",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 42,
+    "review": "wifi coverage is strong but signal fluctuates sometimes",
+    "aspects": [
+      {
+        "feature": "wifi coverage",
+        "opinion": "strong",
+        "sentiment": "positive"
+      }
+    ],
+    "summary": {
+      "total_aspects": 1,
+      "positive": 1,
+      "negative": 0,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 43,
+    "review": "display colors are vivid but brightness is inadequate outdoors",
+    "aspects": [
+      {
+        "feature": "display colors",
+        "opinion": "vivid",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "brightness",
+        "opinion": "inadequate",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 44,
+    "review": "material quality is premium but weight is heavy",
+    "aspects": [
+      {
+        "feature": "material quality",
+        "opinion": "premium",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "weight",
+        "opinion": "heavy",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 45,
+    "review": "mobile app is useful but notifications are delayed",
+    "aspects": [
+      {
+        "feature": "mobile app",
+        "opinion": "useful",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "notifications",
+        "opinion": "delayed",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 46,
+    "review": "checkout experience is smooth but payment options are limited",
+    "aspects": [
+      {
+        "feature": "checkout experience",
+        "opinion": "smooth",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "payment options",
+        "opinion": "limited",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 47,
+    "review": "packaging was secure but product arrived late",
+    "aspects": [
+      {
+        "feature": "product",
+        "opinion": "arrived late",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 1,
+      "positive": 0,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 48,
+    "review": "voice recognition is accurate but processing speed is slow",
+    "aspects": [
+      {
+        "feature": "voice recognition",
+        "opinion": "accurate",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "speed",
+        "opinion": "slow",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 49,
+    "review": "laptop performance is smooth but fan noise is excessive",
+    "aspects": [
+      {
+        "feature": "laptop performance",
+        "opinion": "smooth",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "fan noise",
+        "opinion": "excessive",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  },
+  {
+    "id": 50,
+    "review": "gaming experience is enjoyable but device overheats quickly",
+    "aspects": [
+      {
+        "feature": "experience",
+        "opinion": "enjoyable",
+        "sentiment": "positive"
+      },
+      {
+        "feature": "device",
+        "opinion": "quickly",
+        "sentiment": "negative"
+      }
+    ],
+    "summary": {
+      "total_aspects": 2,
+      "positive": 1,
+      "negative": 1,
+      "neutral": 0
+    }
+  }
+]
